@@ -74,10 +74,12 @@ Presents executive insights and retention strategies.
 
 
 ### Customer Risk & Retention
-(Add Screenshot Here)
+<img width="1374" height="773" alt="2 Customer_Risk_ _Retention" src="https://github.com/user-attachments/assets/967f208a-a389-4ef3-886f-4bf49a0ddfd9" />
+
 
 ### Strategic Recommendation
-(Add Screenshot Here)
+<img width="1378" height="775" alt="3 Strategic_Recommendation_ _Business_Insights" src="https://github.com/user-attachments/assets/f834d2f0-4922-43eb-a0d1-626ef73820d8" />
+
 
 ---
 
